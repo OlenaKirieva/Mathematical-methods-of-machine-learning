@@ -59,4 +59,4 @@ To evaluate the model, I split the data into **Train (80%)** and **Test (20%)** 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/movie-recommender-svd.git
+   git clone  https://github.com/OlenaKirieva/Mathematical-methods-of-machine-learning/tree/main/movie-recommender-svd
